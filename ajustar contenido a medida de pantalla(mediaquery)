@@ -1,0 +1,7 @@
+@media(max-width:500px){
+    .contenido{
+      grid: none;
+      
+    }
+}
+y tambien añadirle una clase al grid-container del cuerpo de la pagina
